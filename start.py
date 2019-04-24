@@ -64,6 +64,6 @@ def skoziVseStrani(url):
         return sez
 
 shraniVSez(iskalniNiz="smučanje", stStrani=10, sort = 2)
-
+#a = http://www.bolha.com/iskanje?q=smu%C4%8Danje&unomitted=true&sort=3&page=2
 
 
